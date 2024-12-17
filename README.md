@@ -1,2 +1,4 @@
 # ApnaCDemo
-Learning Github
+Learning Github : Learning the basics
+<br>
+Author Avinash 
